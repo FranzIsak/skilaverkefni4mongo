@@ -4,4 +4,4 @@ testetestestestestical
 testicals
 
 
-arn i = gay
+Árni !== Straight
