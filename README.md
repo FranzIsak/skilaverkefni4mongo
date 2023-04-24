@@ -1,5 +1,7 @@
 # skilaverkefni4mongo
 
-testetestestestse
+testetestestestestical
+testicals
+
 
 arn i = gay
