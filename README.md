@@ -5,3 +5,4 @@ testicals
 
 
 Árni !== Straight
+En kalli er def = gay
