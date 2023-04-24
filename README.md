@@ -2,4 +2,4 @@
 
 testetestestestse
 
-arn i = gay
+Árni !== Straight
