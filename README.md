@@ -1,3 +1,5 @@
 # skilaverkefni4mongo
 
-testetestestestfdsfdsfds
+testetestestestse
+
+Árni !== Straight
